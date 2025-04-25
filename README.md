@@ -1,6 +1,6 @@
 # Java Exercises
 
-This repository contains solutions to various Java exercises from the Exercism platform. Each exercise is organized into its own directory, with separate folders for source code, tests, and configuration files.
+This repository contains solutions to various Java exercises from the Exercism platform. Each exercise is organized into its own directory, with separate folders for source code, tests, and configuration files!
 
 ## Structure
 
