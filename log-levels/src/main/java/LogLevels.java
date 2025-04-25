@@ -51,7 +51,7 @@ public class LogLevels {
     public static String reformat(String logLine) {
         String level = logLevel(logLine);
         String message = message(logLine);
-        String reformattedMessage = message + " (" + level + ")";
+        String reformattedMessage = String.format("%s (%s)", message, level);
         return reformattedMessage;
     }
 }
