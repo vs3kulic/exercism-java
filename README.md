@@ -1,4 +1,3 @@
-```markdown
 # Java Exercises
 
 This repository contains solutions to various Java exercises from the Exercism platform. Each exercise is organized into its own directory, with separate folders for source code, tests, and configuration files.
@@ -30,7 +29,7 @@ Process and reformat log messages.
 Each exercise uses Gradle. To test:
 
 1. Navigate to the exercise:
-   ```
+   ```bash
    cd <exercise-folder>
    ```
 
@@ -62,4 +61,3 @@ View HTML reports at:
 
 🎯 **Pro Tip**: Start with `Lasagna` for basic syntax practice. Check each exercise's README for tailored hints!  
 ☕ **Java Version**: Requires JDK 17+ (recommend [Temurin 17](https://adoptium.net/))
-```
